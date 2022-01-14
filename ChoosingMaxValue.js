@@ -1,3 +1,4 @@
+//for refrence: https://appointment.visafg.com/appointment/confirm
 let selected_element = document.getElementById("slot");
 let myArray = [];
 for (let i = 1; i < selected_element.length; i++) {
